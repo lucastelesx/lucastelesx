@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Master Yoda of CSS, Currently working as a Front-end Developer and learning Javascript and Vue.</p>
+<p align="left">Master Yoda of CSS, Currently working as a Front-end Developer learning Javascript and Vue.</p>
 
 ###
 
