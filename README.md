@@ -6,7 +6,7 @@
 
 ### Desenvolvedor Front-end | Especialista em MarTech & Web Analytics 
 
-Tenho o focado na construção de sistemas web escaláveis, automações de fluxos de dados e integração de APIs REST. Trabalho unindo engenharia de front-end com arquiteturas sólidas de back-end, microsserviços conteinerizados e modelagem relacional.
+Tenho focado na construção de sistemas web escaláveis, automações de fluxos de dados e integração de APIs REST. Trabalho unindo engenharia de front-end com arquiteturas sólidas de back-end, microsserviços conteinerizados e modelagem relacional.
 
 📄 Link Curriculo(pdf Gdrive) **[drive.google.com/curriculo](https://drive.google.com/file/d/17S9pI79SmYb5LUhUyYShZ_g8_zJUaC3-/view?usp=sharing)**
 
